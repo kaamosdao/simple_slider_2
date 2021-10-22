@@ -1,0 +1,19 @@
+{
+  "name": "simple_slider_2",
+  "version": "1.0.0",
+  "description": "slider with images from unsplash",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaamosdao/simple_slider_2.git"
+  },
+  "author": "Alexander Demidov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaamosdao/simple_slider_2/issues"
+  },
+  "homepage": "https://github.com/kaamosdao/simple_slider_2#readme"
+}
